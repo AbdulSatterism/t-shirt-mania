@@ -1,0 +1,20 @@
+.cart {
+    position: sticky;
+    top: 0;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.bold {
+    font-weight: bold;
+}
